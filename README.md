@@ -3,7 +3,7 @@
 A complete end-to-end **Machine Learning + NLP project** that classifies movie reviews as **Positive** or **Negative** using a Logistic Regression model trained on TF-IDF features. The project includes both an **API-based architecture (FastAPI)** and a **standalone deployment version (Streamlit)**.
 
 ## Live Demo
-
+https://sentiment-analysis-ml-ezouxrbvgwhftn5abssgrm.streamlit.app/
 
 ## Project Overview
 
