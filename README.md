@@ -25,7 +25,17 @@ It demonstrates:
 - FastAPI
 - Streamlit
 
-## How to Run Locally
+## How to Run Locally 
+### With API
+Run FastAPI Backend
+```bash
+uvicorn app.api:app
+```
+Run Streamlit App (API Mode)
+```bash
+streamlit run streamlit_api.py
+```
+### Without API
 ```bash
 streamlit run streamlit_local.py
 ```
