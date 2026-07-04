@@ -26,8 +26,12 @@ It demonstrates:
 - Streamlit
 
 ## How to Run Locally
+```bash
 streamlit run streamlit_local.py
+```
 
 ## Input
+<img width="920" height="548" alt="image" src="https://github.com/user-attachments/assets/b6470077-50ad-4621-b5b5-98f03564d270" />
 
 ## Output
+<img width="901" height="197" alt="image" src="https://github.com/user-attachments/assets/f59b9fcc-b80b-4ae3-8316-41bd8d19de52" />
